@@ -42,6 +42,6 @@ elif option == 3:
 elif option == 4:
     print(num1 / num2)
 else:
-    print("answer")
+    print("resault")
 
 
